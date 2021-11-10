@@ -16,5 +16,10 @@ imperfect food, that is nutrient-rich food items like vegetables and fruits whic
 #### Project Devquest
 Devquest aims to bridge the gap between the Indian tech hiring scenario and the Indian technical education system by imbibing a specially curated evaluation process that assesses practical knowledge and technical skills through a gamified upskilling and hackathon platform.The solution includes two parts Evently(Event Management service inside DevQuest): Brings in the user base and DevQuest(EdTech) : Serves user-base with content.Evently event management platform is exclusively for hackathons and developer events.DevQuest Learn aims to shape your developer journey from zero to one through curated pathways and quest-based learning supplemented
 with developer events.
-        
 
+## Innovate @ MEC Podcast
+As part of IEDC MEC's skill development initiative 'Innovate at MEC', a podcast series hosted together by IEDCMEC and MACS is being planned. The aim of this podcast is to bring forth the innovative personalities from MEC and those who have been a part of this inspiring culture.
+It started when a few of the developers and designers from MEC came together with a collective interest towards putting out valuable content for every MECian, and hopefully for anyone in the world, and through this venture, we hope to empower and inspire students all around the world to think for themselves and come up with authentic and innovative ideas.
+
+## Discord Community Channel
+In IEDCMEC, we truly believe that active,healthy and informative discussions play a huge role in shaping our minds and keeping the spirit of this e-cell alive.With the purpose of carving out a place for every MECian to express his/her thoughts and ideas freely, we have started a discord channel.Be it an idea you want to get an opinion on or a project you have developed or even an interesting trivia that you want to share, you have the stage in our discord channel. 
